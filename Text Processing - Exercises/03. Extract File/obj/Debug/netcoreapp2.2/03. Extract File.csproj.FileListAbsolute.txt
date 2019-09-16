@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\03. Extract File\bin\Debug\netcoreapp2.2\03. Extract File.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\03. Extract File\bin\Debug\netcoreapp2.2\03. Extract File.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\03. Extract File\bin\Debug\netcoreapp2.2\03. Extract File.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\03. Extract File\bin\Debug\netcoreapp2.2\03. Extract File.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\03. Extract File\bin\Debug\netcoreapp2.2\03. Extract File.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\03. Extract File\obj\Debug\netcoreapp2.2\03. Extract File.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\03. Extract File\obj\Debug\netcoreapp2.2\03. Extract File.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\03. Extract File\obj\Debug\netcoreapp2.2\03. Extract File.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\03. Extract File\obj\Debug\netcoreapp2.2\03. Extract File.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\03. Extract File\obj\Debug\netcoreapp2.2\03. Extract File.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\03. Extract File\obj\Debug\netcoreapp2.2\03. Extract File.pdb

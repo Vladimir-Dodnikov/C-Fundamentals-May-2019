@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp2.2\03. Match Dates.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp2.2\03. Match Dates.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp2.2\03. Match Dates.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp2.2\03. Match Dates.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Lab\03. Match Dates\bin\Debug\netcoreapp2.2\03. Match Dates.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp2.2\03. Match Dates.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp2.2\03. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp2.2\03. Match Dates.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp2.2\03. Match Dates.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp2.2\03. Match Dates.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Lab\03. Match Dates\obj\Debug\netcoreapp2.2\03. Match Dates.pdb

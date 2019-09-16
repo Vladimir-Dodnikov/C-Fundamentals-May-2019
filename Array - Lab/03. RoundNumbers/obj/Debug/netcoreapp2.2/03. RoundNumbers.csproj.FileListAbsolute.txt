@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\03. RoundNumbers\bin\Debug\netcoreapp2.2\03. RoundNumbers.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\03. RoundNumbers\bin\Debug\netcoreapp2.2\03. RoundNumbers.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\03. RoundNumbers\bin\Debug\netcoreapp2.2\03. RoundNumbers.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\03. RoundNumbers\bin\Debug\netcoreapp2.2\03. RoundNumbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\03. RoundNumbers\bin\Debug\netcoreapp2.2\03. RoundNumbers.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\03. RoundNumbers\obj\Debug\netcoreapp2.2\03. RoundNumbers.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\03. RoundNumbers\obj\Debug\netcoreapp2.2\03. RoundNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\03. RoundNumbers\obj\Debug\netcoreapp2.2\03. RoundNumbers.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\03. RoundNumbers\obj\Debug\netcoreapp2.2\03. RoundNumbers.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\03. RoundNumbers\obj\Debug\netcoreapp2.2\03. RoundNumbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\03. RoundNumbers\obj\Debug\netcoreapp2.2\03. RoundNumbers.pdb

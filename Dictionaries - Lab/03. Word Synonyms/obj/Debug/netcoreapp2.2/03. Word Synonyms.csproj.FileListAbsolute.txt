@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.2\03. Word Synonyms.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.2\03. Word Synonyms.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.2\03. Word Synonyms.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.2\03. Word Synonyms.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Lab\03. Word Synonyms\bin\Debug\netcoreapp2.2\03. Word Synonyms.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.2\03. Word Synonyms.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.2\03. Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.2\03. Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.2\03. Word Synonyms.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.2\03. Word Synonyms.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Lab\03. Word Synonyms\obj\Debug\netcoreapp2.2\03. Word Synonyms.pdb

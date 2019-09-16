@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\03. Last Stop\bin\Debug\netcoreapp2.2\03. Last Stop.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\03. Last Stop\bin\Debug\netcoreapp2.2\03. Last Stop.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\03. Last Stop\bin\Debug\netcoreapp2.2\03. Last Stop.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\03. Last Stop\bin\Debug\netcoreapp2.2\03. Last Stop.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\03. Last Stop\bin\Debug\netcoreapp2.2\03. Last Stop.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\03. Last Stop\obj\Debug\netcoreapp2.2\03. Last Stop.pdb

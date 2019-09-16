@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\04. CenturesToMinutes\bin\Debug\netcoreapp2.2\04. CenturesToMinutes.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\04. CenturesToMinutes\bin\Debug\netcoreapp2.2\04. CenturesToMinutes.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\04. CenturesToMinutes\bin\Debug\netcoreapp2.2\04. CenturesToMinutes.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\04. CenturesToMinutes\bin\Debug\netcoreapp2.2\04. CenturesToMinutes.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\04. CenturesToMinutes\bin\Debug\netcoreapp2.2\04. CenturesToMinutes.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\04. CenturesToMinutes\obj\Debug\netcoreapp2.2\04. CenturesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\04. CenturesToMinutes\obj\Debug\netcoreapp2.2\04. CenturesToMinutes.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\04. CenturesToMinutes\obj\Debug\netcoreapp2.2\04. CenturesToMinutes.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\04. CenturesToMinutes\obj\Debug\netcoreapp2.2\04. CenturesToMinutes.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\04. CenturesToMinutes\obj\Debug\netcoreapp2.2\04. CenturesToMinutes.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\04. CenturesToMinutes\obj\Debug\netcoreapp2.2\04. CenturesToMinutes.csprojAssemblyReference.cache

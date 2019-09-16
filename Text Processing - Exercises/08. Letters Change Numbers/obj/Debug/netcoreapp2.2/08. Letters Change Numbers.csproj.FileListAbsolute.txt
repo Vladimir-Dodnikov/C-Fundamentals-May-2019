@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.2\08. Letters Change Numbers.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.2\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.2\08. Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.2\08. Letters Change Numbers.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\netcoreapp2.2\08. Letters Change Numbers.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\netcoreapp2.2\08. Letters Change Numbers.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\netcoreapp2.2\08. Letters Change Numbers.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\netcoreapp2.2\08. Letters Change Numbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\netcoreapp2.2\08. Letters Change Numbers.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.2\08. Letters Change Numbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.2\08. Letters Change Numbers.pdb

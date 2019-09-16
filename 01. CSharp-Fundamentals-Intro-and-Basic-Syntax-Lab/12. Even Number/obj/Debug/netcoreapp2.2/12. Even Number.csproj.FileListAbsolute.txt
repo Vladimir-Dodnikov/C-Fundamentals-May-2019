@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp2.2\12. Even Number.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp2.2\12. Even Number.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp2.2\12. Even Number.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp2.2\12. Even Number.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\12. Even Number\bin\Debug\netcoreapp2.2\12. Even Number.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp2.2\12. Even Number.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp2.2\12. Even Number.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp2.2\12. Even Number.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp2.2\12. Even Number.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp2.2\12. Even Number.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\12. Even Number\obj\Debug\netcoreapp2.2\12. Even Number.pdb

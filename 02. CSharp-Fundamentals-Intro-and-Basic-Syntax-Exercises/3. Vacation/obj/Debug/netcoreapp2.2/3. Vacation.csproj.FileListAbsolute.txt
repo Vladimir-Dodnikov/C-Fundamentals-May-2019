@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\3. Vacation\bin\Debug\netcoreapp2.2\3. Vacation.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\3. Vacation\bin\Debug\netcoreapp2.2\3. Vacation.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\3. Vacation\bin\Debug\netcoreapp2.2\3. Vacation.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\3. Vacation\bin\Debug\netcoreapp2.2\3. Vacation.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\3. Vacation\bin\Debug\netcoreapp2.2\3. Vacation.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\3. Vacation\obj\Debug\netcoreapp2.2\3. Vacation.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\3. Vacation\obj\Debug\netcoreapp2.2\3. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\3. Vacation\obj\Debug\netcoreapp2.2\3. Vacation.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\3. Vacation\obj\Debug\netcoreapp2.2\3. Vacation.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\3. Vacation\obj\Debug\netcoreapp2.2\3. Vacation.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\3. Vacation\obj\Debug\netcoreapp2.2\3. Vacation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\08. Factorial Division\bin\Debug\netcoreapp2.2\08. Factorial Division.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\08. Factorial Division\bin\Debug\netcoreapp2.2\08. Factorial Division.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\08. Factorial Division\bin\Debug\netcoreapp2.2\08. Factorial Division.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\08. Factorial Division\bin\Debug\netcoreapp2.2\08. Factorial Division.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\08. Factorial Division\bin\Debug\netcoreapp2.2\08. Factorial Division.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\08. Factorial Division\obj\Debug\netcoreapp2.2\08. Factorial Division.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\08. Factorial Division\obj\Debug\netcoreapp2.2\08. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\08. Factorial Division\obj\Debug\netcoreapp2.2\08. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\08. Factorial Division\obj\Debug\netcoreapp2.2\08. Factorial Division.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\08. Factorial Division\obj\Debug\netcoreapp2.2\08. Factorial Division.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\08. Factorial Division\obj\Debug\netcoreapp2.2\08. Factorial Division.pdb

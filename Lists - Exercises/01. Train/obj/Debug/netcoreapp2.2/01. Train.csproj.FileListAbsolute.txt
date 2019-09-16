@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\01. Train\bin\Debug\netcoreapp2.2\01. Train.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\01. Train\bin\Debug\netcoreapp2.2\01. Train.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\01. Train\bin\Debug\netcoreapp2.2\01. Train.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\01. Train\bin\Debug\netcoreapp2.2\01. Train.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\01. Train\bin\Debug\netcoreapp2.2\01. Train.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\01. Train\obj\Debug\netcoreapp2.2\01. Train.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\01. Train\obj\Debug\netcoreapp2.2\01. Train.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\01. Train\obj\Debug\netcoreapp2.2\01. Train.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\01. Train\obj\Debug\netcoreapp2.2\01. Train.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\01. Train\obj\Debug\netcoreapp2.2\01. Train.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\01. Train\obj\Debug\netcoreapp2.2\01. Train.pdb

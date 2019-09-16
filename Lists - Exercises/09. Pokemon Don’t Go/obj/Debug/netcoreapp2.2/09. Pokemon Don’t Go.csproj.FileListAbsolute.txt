@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\09. Pokemon Don’t Go\bin\Debug\netcoreapp2.2\09. Pokemon Don’t Go.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\09. Pokemon Don’t Go\bin\Debug\netcoreapp2.2\09. Pokemon Don’t Go.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\09. Pokemon Don’t Go\bin\Debug\netcoreapp2.2\09. Pokemon Don’t Go.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\09. Pokemon Don’t Go\bin\Debug\netcoreapp2.2\09. Pokemon Don’t Go.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\09. Pokemon Don’t Go\bin\Debug\netcoreapp2.2\09. Pokemon Don’t Go.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\09. Pokemon Don’t Go\obj\Debug\netcoreapp2.2\09. Pokemon Don’t Go.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\09. Pokemon Don’t Go\obj\Debug\netcoreapp2.2\09. Pokemon Don’t Go.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\09. Pokemon Don’t Go\obj\Debug\netcoreapp2.2\09. Pokemon Don’t Go.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\09. Pokemon Don’t Go\obj\Debug\netcoreapp2.2\09. Pokemon Don’t Go.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\09. Pokemon Don’t Go\obj\Debug\netcoreapp2.2\09. Pokemon Don’t Go.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\09. Pokemon Don’t Go\obj\Debug\netcoreapp2.2\09. Pokemon Don’t Go.pdb

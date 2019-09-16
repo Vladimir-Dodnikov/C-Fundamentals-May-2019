@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\07. MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\07. MaxSequenceOfEqualElements.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\07. MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\07. MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\07. MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\07. MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\07. MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\07. MaxSequenceOfEqualElements.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\07. MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.2\07. MaxSequenceOfEqualElements.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\07. MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\07. MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\07. MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\07. MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\07. MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\07. MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\07. MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\07. MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\07. MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\07. MaxSequenceOfEqualElements.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\07. MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.2\07. MaxSequenceOfEqualElements.pdb

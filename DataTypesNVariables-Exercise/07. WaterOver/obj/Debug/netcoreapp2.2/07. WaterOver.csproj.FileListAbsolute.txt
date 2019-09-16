@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\07. WaterOver\bin\Debug\netcoreapp2.2\07. WaterOver.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\07. WaterOver\bin\Debug\netcoreapp2.2\07. WaterOver.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\07. WaterOver\bin\Debug\netcoreapp2.2\07. WaterOver.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\07. WaterOver\bin\Debug\netcoreapp2.2\07. WaterOver.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\07. WaterOver\bin\Debug\netcoreapp2.2\07. WaterOver.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\07. WaterOver\obj\Debug\netcoreapp2.2\07. WaterOver.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\07. WaterOver\obj\Debug\netcoreapp2.2\07. WaterOver.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\07. WaterOver\obj\Debug\netcoreapp2.2\07. WaterOver.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\07. WaterOver\obj\Debug\netcoreapp2.2\07. WaterOver.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\07. WaterOver\obj\Debug\netcoreapp2.2\07. WaterOver.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\07. WaterOver\obj\Debug\netcoreapp2.2\07. WaterOver.pdb

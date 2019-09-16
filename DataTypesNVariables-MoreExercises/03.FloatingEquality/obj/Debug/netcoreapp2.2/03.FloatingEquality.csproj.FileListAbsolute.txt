@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\DataTypesNVariables-MoreExercises\03.FloatingEquality\bin\Debug\netcoreapp2.2\03.FloatingEquality.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\DataTypesNVariables-MoreExercises\03.FloatingEquality\bin\Debug\netcoreapp2.2\03.FloatingEquality.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\DataTypesNVariables-MoreExercises\03.FloatingEquality\bin\Debug\netcoreapp2.2\03.FloatingEquality.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\DataTypesNVariables-MoreExercises\03.FloatingEquality\bin\Debug\netcoreapp2.2\03.FloatingEquality.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\DataTypesNVariables-MoreExercises\03.FloatingEquality\bin\Debug\netcoreapp2.2\03.FloatingEquality.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\DataTypesNVariables-MoreExercises\03.FloatingEquality\obj\Debug\netcoreapp2.2\03.FloatingEquality.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\DataTypesNVariables-MoreExercises\03.FloatingEquality\obj\Debug\netcoreapp2.2\03.FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\DataTypesNVariables-MoreExercises\03.FloatingEquality\obj\Debug\netcoreapp2.2\03.FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\DataTypesNVariables-MoreExercises\03.FloatingEquality\obj\Debug\netcoreapp2.2\03.FloatingEquality.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\DataTypesNVariables-MoreExercises\03.FloatingEquality\obj\Debug\netcoreapp2.2\03.FloatingEquality.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\DataTypesNVariables-MoreExercises\03.FloatingEquality\obj\Debug\netcoreapp2.2\03.FloatingEquality.pdb

@@ -1,0 +1,10 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\02. MoneyConvert\bin\Debug\netcoreapp2.2\02. MoneyConvert.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\02. MoneyConvert\bin\Debug\netcoreapp2.2\02. MoneyConvert.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\02. MoneyConvert\bin\Debug\netcoreapp2.2\02. MoneyConvert.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\02. MoneyConvert\bin\Debug\netcoreapp2.2\02. MoneyConvert.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\02. MoneyConvert\bin\Debug\netcoreapp2.2\02. MoneyConvert.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\02. MoneyConvert\obj\Debug\netcoreapp2.2\02. MoneyConvert.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\02. MoneyConvert\obj\Debug\netcoreapp2.2\02. MoneyConvert.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\02. MoneyConvert\obj\Debug\netcoreapp2.2\02. MoneyConvert.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\02. MoneyConvert\obj\Debug\netcoreapp2.2\02. MoneyConvert.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\02. MoneyConvert\obj\Debug\netcoreapp2.2\02. MoneyConvert.pdb

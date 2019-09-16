@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\09. ForceBook\bin\Debug\netcoreapp2.2\09. ForceBook.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\09. ForceBook\bin\Debug\netcoreapp2.2\09. ForceBook.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\09. ForceBook\bin\Debug\netcoreapp2.2\09. ForceBook.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\09. ForceBook\bin\Debug\netcoreapp2.2\09. ForceBook.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\09. ForceBook\bin\Debug\netcoreapp2.2\09. ForceBook.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\09. ForceBook\obj\Debug\netcoreapp2.2\09. ForceBook.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\09. ForceBook\obj\Debug\netcoreapp2.2\09. ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\09. ForceBook\obj\Debug\netcoreapp2.2\09. ForceBook.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\09. ForceBook\obj\Debug\netcoreapp2.2\09. ForceBook.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\09. ForceBook\obj\Debug\netcoreapp2.2\09. ForceBook.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\09. ForceBook\obj\Debug\netcoreapp2.2\09. ForceBook.pdb

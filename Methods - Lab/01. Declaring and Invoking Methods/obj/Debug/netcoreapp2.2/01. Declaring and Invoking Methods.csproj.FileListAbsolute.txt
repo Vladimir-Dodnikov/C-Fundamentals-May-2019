@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\01. Declaring and Invoking Methods\bin\Debug\netcoreapp2.2\01. Declaring and Invoking Methods.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\01. Declaring and Invoking Methods\bin\Debug\netcoreapp2.2\01. Declaring and Invoking Methods.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\01. Declaring and Invoking Methods\bin\Debug\netcoreapp2.2\01. Declaring and Invoking Methods.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\01. Declaring and Invoking Methods\bin\Debug\netcoreapp2.2\01. Declaring and Invoking Methods.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\01. Declaring and Invoking Methods\bin\Debug\netcoreapp2.2\01. Declaring and Invoking Methods.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\01. Declaring and Invoking Methods\obj\Debug\netcoreapp2.2\01. Declaring and Invoking Methods.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\01. Declaring and Invoking Methods\obj\Debug\netcoreapp2.2\01. Declaring and Invoking Methods.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\01. Declaring and Invoking Methods\obj\Debug\netcoreapp2.2\01. Declaring and Invoking Methods.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\01. Declaring and Invoking Methods\obj\Debug\netcoreapp2.2\01. Declaring and Invoking Methods.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\01. Declaring and Invoking Methods\obj\Debug\netcoreapp2.2\01. Declaring and Invoking Methods.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\01. Declaring and Invoking Methods\obj\Debug\netcoreapp2.2\01. Declaring and Invoking Methods.pdb

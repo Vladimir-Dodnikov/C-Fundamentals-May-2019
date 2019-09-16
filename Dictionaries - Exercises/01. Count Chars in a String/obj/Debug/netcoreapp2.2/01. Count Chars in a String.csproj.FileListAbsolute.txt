@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\01. Count Chars in a String\bin\Debug\netcoreapp2.2\01. Count Chars in a String.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\01. Count Chars in a String\bin\Debug\netcoreapp2.2\01. Count Chars in a String.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\01. Count Chars in a String\bin\Debug\netcoreapp2.2\01. Count Chars in a String.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\01. Count Chars in a String\bin\Debug\netcoreapp2.2\01. Count Chars in a String.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\01. Count Chars in a String\bin\Debug\netcoreapp2.2\01. Count Chars in a String.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\01. Count Chars in a String\obj\Debug\netcoreapp2.2\01. Count Chars in a String.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\01. Count Chars in a String\obj\Debug\netcoreapp2.2\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\01. Count Chars in a String\obj\Debug\netcoreapp2.2\01. Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\01. Count Chars in a String\obj\Debug\netcoreapp2.2\01. Count Chars in a String.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\01. Count Chars in a String\obj\Debug\netcoreapp2.2\01. Count Chars in a String.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\01. Count Chars in a String\obj\Debug\netcoreapp2.2\01. Count Chars in a String.pdb

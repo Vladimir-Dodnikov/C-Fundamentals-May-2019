@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\10. Pokemon\bin\Debug\netcoreapp2.2\10. Pokemon.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\10. Pokemon\bin\Debug\netcoreapp2.2\10. Pokemon.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\10. Pokemon\bin\Debug\netcoreapp2.2\10. Pokemon.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\10. Pokemon\bin\Debug\netcoreapp2.2\10. Pokemon.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\10. Pokemon\bin\Debug\netcoreapp2.2\10. Pokemon.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\10. Pokemon\obj\Debug\netcoreapp2.2\10. Pokemon.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\10. Pokemon\obj\Debug\netcoreapp2.2\10. Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\10. Pokemon\obj\Debug\netcoreapp2.2\10. Pokemon.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\10. Pokemon\obj\Debug\netcoreapp2.2\10. Pokemon.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\10. Pokemon\obj\Debug\netcoreapp2.2\10. Pokemon.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\10. Pokemon\obj\Debug\netcoreapp2.2\10. Pokemon.pdb

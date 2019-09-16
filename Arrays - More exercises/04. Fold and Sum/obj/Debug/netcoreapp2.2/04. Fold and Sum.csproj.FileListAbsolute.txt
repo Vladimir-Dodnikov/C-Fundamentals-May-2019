@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\04. Fold and Sum\bin\Debug\netcoreapp2.2\04. Fold and Sum.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\04. Fold and Sum\bin\Debug\netcoreapp2.2\04. Fold and Sum.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\04. Fold and Sum\bin\Debug\netcoreapp2.2\04. Fold and Sum.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\04. Fold and Sum\bin\Debug\netcoreapp2.2\04. Fold and Sum.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\04. Fold and Sum\bin\Debug\netcoreapp2.2\04. Fold and Sum.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\04. Fold and Sum\obj\Debug\netcoreapp2.2\04. Fold and Sum.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\04. Fold and Sum\obj\Debug\netcoreapp2.2\04. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\04. Fold and Sum\obj\Debug\netcoreapp2.2\04. Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\04. Fold and Sum\obj\Debug\netcoreapp2.2\04. Fold and Sum.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\04. Fold and Sum\obj\Debug\netcoreapp2.2\04. Fold and Sum.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\04. Fold and Sum\obj\Debug\netcoreapp2.2\04. Fold and Sum.pdb

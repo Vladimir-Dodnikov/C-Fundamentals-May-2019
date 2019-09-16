@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\03. Elevator\bin\Debug\netcoreapp2.2\03. Elevator.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\03. Elevator\bin\Debug\netcoreapp2.2\03. Elevator.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\03. Elevator\bin\Debug\netcoreapp2.2\03. Elevator.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\03. Elevator\bin\Debug\netcoreapp2.2\03. Elevator.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\03. Elevator\bin\Debug\netcoreapp2.2\03. Elevator.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\03. Elevator\obj\Debug\netcoreapp2.2\03. Elevator.pdb

@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Back in 30 minutes\bin\Debug\netcoreapp2.2\4. Back in 30 minutes.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Back in 30 minutes\bin\Debug\netcoreapp2.2\4. Back in 30 minutes.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Back in 30 minutes\bin\Debug\netcoreapp2.2\4. Back in 30 minutes.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Back in 30 minutes\bin\Debug\netcoreapp2.2\4. Back in 30 minutes.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Back in 30 minutes\bin\Debug\netcoreapp2.2\4. Back in 30 minutes.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Back in 30 minutes\obj\Debug\netcoreapp2.2\4. Back in 30 minutes.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Back in 30 minutes\obj\Debug\netcoreapp2.2\4. Back in 30 minutes.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Back in 30 minutes\obj\Debug\netcoreapp2.2\4. Back in 30 minutes.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Back in 30 minutes\obj\Debug\netcoreapp2.2\4. Back in 30 minutes.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Back in 30 minutes\obj\Debug\netcoreapp2.2\4. Back in 30 minutes.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Back in 30 minutes\obj\Debug\netcoreapp2.2\4. Back in 30 minutes.pdb

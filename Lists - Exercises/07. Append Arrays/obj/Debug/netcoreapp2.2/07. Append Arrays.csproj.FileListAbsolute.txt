@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\07. Append Arrays\bin\Debug\netcoreapp2.2\07. Append Arrays.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\07. Append Arrays\bin\Debug\netcoreapp2.2\07. Append Arrays.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\07. Append Arrays\bin\Debug\netcoreapp2.2\07. Append Arrays.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\07. Append Arrays\bin\Debug\netcoreapp2.2\07. Append Arrays.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\07. Append Arrays\bin\Debug\netcoreapp2.2\07. Append Arrays.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\07. Append Arrays\obj\Debug\netcoreapp2.2\07. Append Arrays.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\07. Append Arrays\obj\Debug\netcoreapp2.2\07. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\07. Append Arrays\obj\Debug\netcoreapp2.2\07. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\07. Append Arrays\obj\Debug\netcoreapp2.2\07. Append Arrays.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\07. Append Arrays\obj\Debug\netcoreapp2.2\07. Append Arrays.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\07. Append Arrays\obj\Debug\netcoreapp2.2\07. Append Arrays.pdb

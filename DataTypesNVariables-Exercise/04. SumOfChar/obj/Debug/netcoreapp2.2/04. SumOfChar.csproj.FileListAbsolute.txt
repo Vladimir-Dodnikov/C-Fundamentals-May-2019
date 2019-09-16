@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\04. SumOfChar\bin\Debug\netcoreapp2.2\04. SumOfChar.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\04. SumOfChar\bin\Debug\netcoreapp2.2\04. SumOfChar.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\04. SumOfChar\bin\Debug\netcoreapp2.2\04. SumOfChar.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\04. SumOfChar\bin\Debug\netcoreapp2.2\04. SumOfChar.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\04. SumOfChar\bin\Debug\netcoreapp2.2\04. SumOfChar.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\04. SumOfChar\obj\Debug\netcoreapp2.2\04. SumOfChar.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\04. SumOfChar\obj\Debug\netcoreapp2.2\04. SumOfChar.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\04. SumOfChar\obj\Debug\netcoreapp2.2\04. SumOfChar.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\04. SumOfChar\obj\Debug\netcoreapp2.2\04. SumOfChar.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\04. SumOfChar\obj\Debug\netcoreapp2.2\04. SumOfChar.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\04. SumOfChar\obj\Debug\netcoreapp2.2\04. SumOfChar.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.2\11. Math operations.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.2\11. Math operations.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.2\11. Math operations.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.2\11. Math operations.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.2\11. Math operations.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.2\11. Math operations.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.2\11. Math operations.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.2\11. Math operations.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\11. Math operations\bin\Debug\netcoreapp2.2\11. Math operations.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.2\11. Math operations.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\11. Math operations\obj\Debug\netcoreapp2.2\11. Math operations.pdb

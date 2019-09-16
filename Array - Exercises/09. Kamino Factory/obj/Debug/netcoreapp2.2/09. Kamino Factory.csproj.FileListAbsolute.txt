@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\09. Kamino Factory\bin\Debug\netcoreapp2.2\09. Kamino Factory.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\09. Kamino Factory\bin\Debug\netcoreapp2.2\09. Kamino Factory.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\09. Kamino Factory\bin\Debug\netcoreapp2.2\09. Kamino Factory.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\09. Kamino Factory\bin\Debug\netcoreapp2.2\09. Kamino Factory.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\09. Kamino Factory\bin\Debug\netcoreapp2.2\09. Kamino Factory.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\09. Kamino Factory\obj\Debug\netcoreapp2.2\09. Kamino Factory.pdb

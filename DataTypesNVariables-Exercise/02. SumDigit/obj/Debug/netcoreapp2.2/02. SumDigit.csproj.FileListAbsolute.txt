@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\02. SumDigit\bin\Debug\netcoreapp2.2\02. SumDigit.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\02. SumDigit\bin\Debug\netcoreapp2.2\02. SumDigit.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\02. SumDigit\bin\Debug\netcoreapp2.2\02. SumDigit.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\02. SumDigit\bin\Debug\netcoreapp2.2\02. SumDigit.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\02. SumDigit\bin\Debug\netcoreapp2.2\02. SumDigit.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\02. SumDigit\obj\Debug\netcoreapp2.2\02. SumDigit.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\02. SumDigit\obj\Debug\netcoreapp2.2\02. SumDigit.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\02. SumDigit\obj\Debug\netcoreapp2.2\02. SumDigit.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\02. SumDigit\obj\Debug\netcoreapp2.2\02. SumDigit.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\02. SumDigit\obj\Debug\netcoreapp2.2\02. SumDigit.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Exercise\DataTypesExercise\02. SumDigit\obj\Debug\netcoreapp2.2\02. SumDigit.pdb

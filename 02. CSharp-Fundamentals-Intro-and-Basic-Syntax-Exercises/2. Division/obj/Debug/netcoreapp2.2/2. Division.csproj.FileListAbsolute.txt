@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\2. Division\bin\Debug\netcoreapp2.2\2. Division.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\2. Division\bin\Debug\netcoreapp2.2\2. Division.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\2. Division\bin\Debug\netcoreapp2.2\2. Division.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\2. Division\bin\Debug\netcoreapp2.2\2. Division.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\2. Division\bin\Debug\netcoreapp2.2\2. Division.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\2. Division\obj\Debug\netcoreapp2.2\2. Division.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\2. Division\obj\Debug\netcoreapp2.2\2. Division.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\2. Division\obj\Debug\netcoreapp2.2\2. Division.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\2. Division\obj\Debug\netcoreapp2.2\2. Division.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\2. Division\obj\Debug\netcoreapp2.2\2. Division.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\2. Division\obj\Debug\netcoreapp2.2\2. Division.pdb

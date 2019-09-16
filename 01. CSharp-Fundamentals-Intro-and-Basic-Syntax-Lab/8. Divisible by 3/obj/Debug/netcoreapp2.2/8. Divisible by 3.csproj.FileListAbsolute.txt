@@ -1,0 +1,10 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Divisible by 3\bin\Debug\netcoreapp2.2\8. Divisible by 3.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Divisible by 3\bin\Debug\netcoreapp2.2\8. Divisible by 3.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Divisible by 3\bin\Debug\netcoreapp2.2\8. Divisible by 3.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Divisible by 3\bin\Debug\netcoreapp2.2\8. Divisible by 3.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Divisible by 3\bin\Debug\netcoreapp2.2\8. Divisible by 3.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Divisible by 3\obj\Debug\netcoreapp2.2\8. Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Divisible by 3\obj\Debug\netcoreapp2.2\8. Divisible by 3.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Divisible by 3\obj\Debug\netcoreapp2.2\8. Divisible by 3.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Divisible by 3\obj\Debug\netcoreapp2.2\8. Divisible by 3.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Divisible by 3\obj\Debug\netcoreapp2.2\8. Divisible by 3.pdb

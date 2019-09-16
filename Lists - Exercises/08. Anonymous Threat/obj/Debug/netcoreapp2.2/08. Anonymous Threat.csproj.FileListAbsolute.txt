@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\08. Anonymous Threat\bin\Debug\netcoreapp2.2\08. Anonymous Threat.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\08. Anonymous Threat\bin\Debug\netcoreapp2.2\08. Anonymous Threat.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\08. Anonymous Threat\bin\Debug\netcoreapp2.2\08. Anonymous Threat.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\08. Anonymous Threat\bin\Debug\netcoreapp2.2\08. Anonymous Threat.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\08. Anonymous Threat\bin\Debug\netcoreapp2.2\08. Anonymous Threat.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\08. Anonymous Threat\obj\Debug\netcoreapp2.2\08. Anonymous Threat.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\08. Anonymous Threat\obj\Debug\netcoreapp2.2\08. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\08. Anonymous Threat\obj\Debug\netcoreapp2.2\08. Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\08. Anonymous Threat\obj\Debug\netcoreapp2.2\08. Anonymous Threat.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\08. Anonymous Threat\obj\Debug\netcoreapp2.2\08. Anonymous Threat.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\08. Anonymous Threat\obj\Debug\netcoreapp2.2\08. Anonymous Threat.pdb

@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\01. Winning Ticket\bin\Debug\netcoreapp2.2\01. Winning Ticket.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\01. Winning Ticket\bin\Debug\netcoreapp2.2\01. Winning Ticket.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\01. Winning Ticket\bin\Debug\netcoreapp2.2\01. Winning Ticket.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\01. Winning Ticket\bin\Debug\netcoreapp2.2\01. Winning Ticket.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\01. Winning Ticket\bin\Debug\netcoreapp2.2\01. Winning Ticket.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\01. Winning Ticket\obj\Debug\netcoreapp2.2\01. Winning Ticket.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\01. Winning Ticket\obj\Debug\netcoreapp2.2\01. Winning Ticket.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\01. Winning Ticket\obj\Debug\netcoreapp2.2\01. Winning Ticket.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\01. Winning Ticket\obj\Debug\netcoreapp2.2\01. Winning Ticket.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\01. Winning Ticket\obj\Debug\netcoreapp2.2\01. Winning Ticket.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\01. Winning Ticket\obj\Debug\netcoreapp2.2\01. Winning Ticket.pdb

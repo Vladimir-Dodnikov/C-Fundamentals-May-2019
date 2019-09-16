@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\09. Palindrome Integers\bin\Debug\netcoreapp2.2\09. Palindrome Integers.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\09. Palindrome Integers\bin\Debug\netcoreapp2.2\09. Palindrome Integers.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\09. Palindrome Integers\bin\Debug\netcoreapp2.2\09. Palindrome Integers.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\09. Palindrome Integers\bin\Debug\netcoreapp2.2\09. Palindrome Integers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\09. Palindrome Integers\bin\Debug\netcoreapp2.2\09. Palindrome Integers.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\09. Palindrome Integers\obj\Debug\netcoreapp2.2\09. Palindrome Integers.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\09. Palindrome Integers\obj\Debug\netcoreapp2.2\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\09. Palindrome Integers\obj\Debug\netcoreapp2.2\09. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\09. Palindrome Integers\obj\Debug\netcoreapp2.2\09. Palindrome Integers.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\09. Palindrome Integers\obj\Debug\netcoreapp2.2\09. Palindrome Integers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\09. Palindrome Integers\obj\Debug\netcoreapp2.2\09. Palindrome Integers.pdb

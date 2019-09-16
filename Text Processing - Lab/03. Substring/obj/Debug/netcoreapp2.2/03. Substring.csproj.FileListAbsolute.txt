@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.2\03. Substring.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.2\03. Substring.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.2\03. Substring.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.2\03. Substring.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Lab\03. Substring\bin\Debug\netcoreapp2.2\03. Substring.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.2\03. Substring.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.2\03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.2\03. Substring.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.2\03. Substring.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.2\03. Substring.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Lab\03. Substring\obj\Debug\netcoreapp2.2\03. Substring.pdb

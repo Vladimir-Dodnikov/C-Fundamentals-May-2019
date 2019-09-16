@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\10. LowerToUpper\bin\Debug\netcoreapp2.2\10. LowerToUpper.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\10. LowerToUpper\bin\Debug\netcoreapp2.2\10. LowerToUpper.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\10. LowerToUpper\bin\Debug\netcoreapp2.2\10. LowerToUpper.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\10. LowerToUpper\bin\Debug\netcoreapp2.2\10. LowerToUpper.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\10. LowerToUpper\bin\Debug\netcoreapp2.2\10. LowerToUpper.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\10. LowerToUpper\obj\Debug\netcoreapp2.2\10. LowerToUpper.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\10. LowerToUpper\obj\Debug\netcoreapp2.2\10. LowerToUpper.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\10. LowerToUpper\obj\Debug\netcoreapp2.2\10. LowerToUpper.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\10. LowerToUpper\obj\Debug\netcoreapp2.2\10. LowerToUpper.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\10. LowerToUpper\obj\Debug\netcoreapp2.2\10. LowerToUpper.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\10. LowerToUpper\obj\Debug\netcoreapp2.2\10. LowerToUpper.pdb

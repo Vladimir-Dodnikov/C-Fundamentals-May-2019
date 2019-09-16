@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\04. ArrayRotation\bin\Debug\netcoreapp2.2\04. ArrayRotation.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\04. ArrayRotation\bin\Debug\netcoreapp2.2\04. ArrayRotation.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\04. ArrayRotation\bin\Debug\netcoreapp2.2\04. ArrayRotation.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\04. ArrayRotation\bin\Debug\netcoreapp2.2\04. ArrayRotation.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\04. ArrayRotation\bin\Debug\netcoreapp2.2\04. ArrayRotation.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\04. ArrayRotation\obj\Debug\netcoreapp2.2\04. ArrayRotation.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\04. ArrayRotation\obj\Debug\netcoreapp2.2\04. ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\04. ArrayRotation\obj\Debug\netcoreapp2.2\04. ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\04. ArrayRotation\obj\Debug\netcoreapp2.2\04. ArrayRotation.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\04. ArrayRotation\obj\Debug\netcoreapp2.2\04. ArrayRotation.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\04. ArrayRotation\obj\Debug\netcoreapp2.2\04. ArrayRotation.pdb

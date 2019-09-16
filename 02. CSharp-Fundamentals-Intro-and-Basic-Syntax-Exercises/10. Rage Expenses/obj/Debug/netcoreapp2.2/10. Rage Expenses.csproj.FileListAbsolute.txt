@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\bin\Debug\netcoreapp2.2\10. Rage Expenses.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\bin\Debug\netcoreapp2.2\10. Rage Expenses.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\bin\Debug\netcoreapp2.2\10. Rage Expenses.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\bin\Debug\netcoreapp2.2\10. Rage Expenses.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\bin\Debug\netcoreapp2.2\10. Rage Expenses.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\netcoreapp2.2\10. Rage Expenses.pdb

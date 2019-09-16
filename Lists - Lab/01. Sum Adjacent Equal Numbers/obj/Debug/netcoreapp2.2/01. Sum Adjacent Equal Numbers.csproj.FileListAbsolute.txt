@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.2\01. Sum Adjacent Equal Numbers.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.2\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.2\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.2\01. Sum Adjacent Equal Numbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\netcoreapp2.2\01. Sum Adjacent Equal Numbers.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.2\01. Sum Adjacent Equal Numbers.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.2\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.2\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.2\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.2\01. Sum Adjacent Equal Numbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\netcoreapp2.2\01. Sum Adjacent Equal Numbers.pdb

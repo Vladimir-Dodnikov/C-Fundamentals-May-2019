@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\04. List Operations\bin\Debug\netcoreapp2.2\04. List Operations.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\04. List Operations\bin\Debug\netcoreapp2.2\04. List Operations.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\04. List Operations\bin\Debug\netcoreapp2.2\04. List Operations.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\04. List Operations\bin\Debug\netcoreapp2.2\04. List Operations.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\04. List Operations\bin\Debug\netcoreapp2.2\04. List Operations.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\04. List Operations\obj\Debug\netcoreapp2.2\04. List Operations.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\04. List Operations\obj\Debug\netcoreapp2.2\04. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\04. List Operations\obj\Debug\netcoreapp2.2\04. List Operations.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\04. List Operations\obj\Debug\netcoreapp2.2\04. List Operations.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\04. List Operations\obj\Debug\netcoreapp2.2\04. List Operations.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\04. List Operations\obj\Debug\netcoreapp2.2\04. List Operations.pdb

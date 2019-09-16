@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.2\09. Greater of Two Values.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.2\09. Greater of Two Values.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.2\09. Greater of Two Values.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.2\09. Greater of Two Values.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\09. Greater of Two Values\bin\Debug\netcoreapp2.2\09. Greater of Two Values.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.2\09. Greater of Two Values.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.2\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.2\09. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.2\09. Greater of Two Values.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.2\09. Greater of Two Values.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Lab\09. Greater of Two Values\obj\Debug\netcoreapp2.2\09. Greater of Two Values.pdb

@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\02. Rage Quit\bin\Debug\netcoreapp2.2\02. Rage Quit.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\02. Rage Quit\bin\Debug\netcoreapp2.2\02. Rage Quit.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\02. Rage Quit\bin\Debug\netcoreapp2.2\02. Rage Quit.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\02. Rage Quit\bin\Debug\netcoreapp2.2\02. Rage Quit.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\02. Rage Quit\bin\Debug\netcoreapp2.2\02. Rage Quit.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\02. Rage Quit\obj\Debug\netcoreapp2.2\02. Rage Quit.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\02. Rage Quit\obj\Debug\netcoreapp2.2\02. Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\02. Rage Quit\obj\Debug\netcoreapp2.2\02. Rage Quit.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\02. Rage Quit\obj\Debug\netcoreapp2.2\02. Rage Quit.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\02. Rage Quit\obj\Debug\netcoreapp2.2\02. Rage Quit.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\02. Rage Quit\obj\Debug\netcoreapp2.2\02. Rage Quit.pdb

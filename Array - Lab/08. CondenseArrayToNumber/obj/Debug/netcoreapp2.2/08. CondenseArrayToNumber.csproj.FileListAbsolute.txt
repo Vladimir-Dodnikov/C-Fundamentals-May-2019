@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\08. CondenseArrayToNumber\bin\Debug\netcoreapp2.2\08. CondenseArrayToNumber.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\08. CondenseArrayToNumber\bin\Debug\netcoreapp2.2\08. CondenseArrayToNumber.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\08. CondenseArrayToNumber\bin\Debug\netcoreapp2.2\08. CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\08. CondenseArrayToNumber\bin\Debug\netcoreapp2.2\08. CondenseArrayToNumber.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\08. CondenseArrayToNumber\bin\Debug\netcoreapp2.2\08. CondenseArrayToNumber.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp2.2\08. CondenseArrayToNumber.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp2.2\08. CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp2.2\08. CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp2.2\08. CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp2.2\08. CondenseArrayToNumber.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\08. CondenseArrayToNumber\obj\Debug\netcoreapp2.2\08. CondenseArrayToNumber.pdb

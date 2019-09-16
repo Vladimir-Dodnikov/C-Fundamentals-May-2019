@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\03. 3. Recursive Fibonacci\bin\Debug\netcoreapp2.2\03. 3. Recursive Fibonacci.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\03. 3. Recursive Fibonacci\bin\Debug\netcoreapp2.2\03. 3. Recursive Fibonacci.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\03. 3. Recursive Fibonacci\bin\Debug\netcoreapp2.2\03. 3. Recursive Fibonacci.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\03. 3. Recursive Fibonacci\bin\Debug\netcoreapp2.2\03. 3. Recursive Fibonacci.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\03. 3. Recursive Fibonacci\bin\Debug\netcoreapp2.2\03. 3. Recursive Fibonacci.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\03. 3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\03. 3. Recursive Fibonacci.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\03. 3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\03. 3. Recursive Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\03. 3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\03. 3. Recursive Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\03. 3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\03. 3. Recursive Fibonacci.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\03. 3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\03. 3. Recursive Fibonacci.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\03. 3. Recursive Fibonacci\obj\Debug\netcoreapp2.2\03. 3. Recursive Fibonacci.pdb

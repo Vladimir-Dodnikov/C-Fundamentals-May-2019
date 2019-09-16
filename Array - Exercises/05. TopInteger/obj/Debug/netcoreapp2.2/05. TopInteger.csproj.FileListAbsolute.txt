@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\05. TopInteger\bin\Debug\netcoreapp2.2\05. TopInteger.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\05. TopInteger\bin\Debug\netcoreapp2.2\05. TopInteger.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\05. TopInteger\bin\Debug\netcoreapp2.2\05. TopInteger.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\05. TopInteger\bin\Debug\netcoreapp2.2\05. TopInteger.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\05. TopInteger\bin\Debug\netcoreapp2.2\05. TopInteger.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\05. TopInteger\obj\Debug\netcoreapp2.2\05. TopInteger.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\05. TopInteger\obj\Debug\netcoreapp2.2\05. TopInteger.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\05. TopInteger\obj\Debug\netcoreapp2.2\05. TopInteger.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\05. TopInteger\obj\Debug\netcoreapp2.2\05. TopInteger.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\05. TopInteger\obj\Debug\netcoreapp2.2\05. TopInteger.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\05. TopInteger\obj\Debug\netcoreapp2.2\05. TopInteger.pdb

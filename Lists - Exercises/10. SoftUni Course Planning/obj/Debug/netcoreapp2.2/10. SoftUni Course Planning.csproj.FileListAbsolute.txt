@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\10. SoftUni Course Planning\obj\Debug\netcoreapp2.2\10. SoftUni Course Planning.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\10. SoftUni Course Planning\obj\Debug\netcoreapp2.2\10. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\10. SoftUni Course Planning\obj\Debug\netcoreapp2.2\10. SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\10. SoftUni Course Planning\obj\Debug\netcoreapp2.2\10. SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\10. SoftUni Course Planning\bin\Debug\netcoreapp2.2\10. SoftUni Course Planning.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\10. SoftUni Course Planning\bin\Debug\netcoreapp2.2\10. SoftUni Course Planning.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\10. SoftUni Course Planning\bin\Debug\netcoreapp2.2\10. SoftUni Course Planning.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\10. SoftUni Course Planning\bin\Debug\netcoreapp2.2\10. SoftUni Course Planning.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\10. SoftUni Course Planning\bin\Debug\netcoreapp2.2\10. SoftUni Course Planning.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\10. SoftUni Course Planning\obj\Debug\netcoreapp2.2\10. SoftUni Course Planning.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\10. SoftUni Course Planning\obj\Debug\netcoreapp2.2\10. SoftUni Course Planning.pdb

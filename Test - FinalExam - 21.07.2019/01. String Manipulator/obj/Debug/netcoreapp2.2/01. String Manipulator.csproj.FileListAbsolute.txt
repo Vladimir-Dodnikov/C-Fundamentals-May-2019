@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\01. String Manipulator\bin\Debug\netcoreapp2.2\01. String Manipulator.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\01. String Manipulator\bin\Debug\netcoreapp2.2\01. String Manipulator.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\01. String Manipulator\bin\Debug\netcoreapp2.2\01. String Manipulator.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\01. String Manipulator\bin\Debug\netcoreapp2.2\01. String Manipulator.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\01. String Manipulator\bin\Debug\netcoreapp2.2\01. String Manipulator.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\01. String Manipulator\obj\Debug\netcoreapp2.2\01. String Manipulator.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\01. String Manipulator\obj\Debug\netcoreapp2.2\01. String Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\01. String Manipulator\obj\Debug\netcoreapp2.2\01. String Manipulator.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\01. String Manipulator\obj\Debug\netcoreapp2.2\01. String Manipulator.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\01. String Manipulator\obj\Debug\netcoreapp2.2\01. String Manipulator.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\01. String Manipulator\obj\Debug\netcoreapp2.2\01. String Manipulator.pdb

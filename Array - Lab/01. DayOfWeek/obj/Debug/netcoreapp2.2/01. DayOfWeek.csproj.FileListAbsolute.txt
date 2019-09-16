@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\01. DayOfWeek\bin\Debug\netcoreapp2.2\01. DayOfWeek.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\01. DayOfWeek\bin\Debug\netcoreapp2.2\01. DayOfWeek.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\01. DayOfWeek\bin\Debug\netcoreapp2.2\01. DayOfWeek.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\01. DayOfWeek\bin\Debug\netcoreapp2.2\01. DayOfWeek.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\01. DayOfWeek\bin\Debug\netcoreapp2.2\01. DayOfWeek.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\01. DayOfWeek\obj\Debug\netcoreapp2.2\01. DayOfWeek.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\01. DayOfWeek\obj\Debug\netcoreapp2.2\01. DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\01. DayOfWeek\obj\Debug\netcoreapp2.2\01. DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\01. DayOfWeek\obj\Debug\netcoreapp2.2\01. DayOfWeek.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\01. DayOfWeek\obj\Debug\netcoreapp2.2\01. DayOfWeek.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\01. DayOfWeek\obj\Debug\netcoreapp2.2\01. DayOfWeek.pdb

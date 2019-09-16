@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\11. Array Manipulator\bin\Debug\netcoreapp2.2\11. Array Manipulator.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\11. Array Manipulator\bin\Debug\netcoreapp2.2\11. Array Manipulator.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\11. Array Manipulator\bin\Debug\netcoreapp2.2\11. Array Manipulator.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\11. Array Manipulator\bin\Debug\netcoreapp2.2\11. Array Manipulator.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\11. Array Manipulator\bin\Debug\netcoreapp2.2\11. Array Manipulator.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\11. Array Manipulator\obj\Debug\netcoreapp2.2\11. Array Manipulator.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\11. Array Manipulator\obj\Debug\netcoreapp2.2\11. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\11. Array Manipulator\obj\Debug\netcoreapp2.2\11. Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\11. Array Manipulator\obj\Debug\netcoreapp2.2\11. Array Manipulator.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\11. Array Manipulator\obj\Debug\netcoreapp2.2\11. Array Manipulator.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\11. Array Manipulator\obj\Debug\netcoreapp2.2\11. Array Manipulator.pdb

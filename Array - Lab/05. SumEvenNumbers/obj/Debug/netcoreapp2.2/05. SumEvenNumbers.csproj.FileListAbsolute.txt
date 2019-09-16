@@ -1,0 +1,21 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp2.2\05. SumEvenNumbers.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp2.2\05. SumEvenNumbers.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp2.2\05. SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp2.2\05. SumEvenNumbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp2.2\05. SumEvenNumbers.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp2.2\05. SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp2.2\05. SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp2.2\05. SumEvenNumbers.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp2.2\05. SumEvenNumbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp2.2\05. SumEvenNumbers.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp2.2\05. SumEvenNumbers.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp2.2\05. SumEvenNumbers.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp2.2\05. SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp2.2\05. SumEvenNumbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\05. SumEvenNumbers\bin\Debug\netcoreapp2.2\05. SumEvenNumbers.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp2.2\05. SumEvenNumbers.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp2.2\05. SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp2.2\05. SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp2.2\05. SumEvenNumbers.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp2.2\05. SumEvenNumbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\05. SumEvenNumbers\obj\Debug\netcoreapp2.2\05. SumEvenNumbers.pdb

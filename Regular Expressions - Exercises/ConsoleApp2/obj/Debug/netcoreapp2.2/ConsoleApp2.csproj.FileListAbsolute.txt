@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\ConsoleApp2\bin\Debug\netcoreapp2.2\ConsoleApp2.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.csprojAssemblyReference.cache

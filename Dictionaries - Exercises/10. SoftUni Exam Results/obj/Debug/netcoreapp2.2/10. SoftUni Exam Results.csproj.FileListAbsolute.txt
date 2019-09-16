@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\10. SoftUni Exam Results\bin\Debug\netcoreapp2.2\10. SoftUni Exam Results.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\10. SoftUni Exam Results\bin\Debug\netcoreapp2.2\10. SoftUni Exam Results.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\10. SoftUni Exam Results\bin\Debug\netcoreapp2.2\10. SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\10. SoftUni Exam Results\bin\Debug\netcoreapp2.2\10. SoftUni Exam Results.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\10. SoftUni Exam Results\bin\Debug\netcoreapp2.2\10. SoftUni Exam Results.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\10. SoftUni Exam Results\obj\Debug\netcoreapp2.2\10. SoftUni Exam Results.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\10. SoftUni Exam Results\obj\Debug\netcoreapp2.2\10. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\10. SoftUni Exam Results\obj\Debug\netcoreapp2.2\10. SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\10. SoftUni Exam Results\obj\Debug\netcoreapp2.2\10. SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\10. SoftUni Exam Results\obj\Debug\netcoreapp2.2\10. SoftUni Exam Results.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\10. SoftUni Exam Results\obj\Debug\netcoreapp2.2\10. SoftUni Exam Results.pdb

@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\02. Change List\bin\Debug\netcoreapp2.2\02. Change List.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\02. Change List\bin\Debug\netcoreapp2.2\02. Change List.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\02. Change List\bin\Debug\netcoreapp2.2\02. Change List.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\02. Change List\bin\Debug\netcoreapp2.2\02. Change List.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\02. Change List\bin\Debug\netcoreapp2.2\02. Change List.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\02. Change List\obj\Debug\netcoreapp2.2\02. Change List.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\02. Change List\obj\Debug\netcoreapp2.2\02. Change List.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\02. Change List\obj\Debug\netcoreapp2.2\02. Change List.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\02. Change List\obj\Debug\netcoreapp2.2\02. Change List.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\02. Change List\obj\Debug\netcoreapp2.2\02. Change List.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\02. Change List\obj\Debug\netcoreapp2.2\02. Change List.pdb

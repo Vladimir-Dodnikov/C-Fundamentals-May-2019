@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\11. Practise code\bin\Debug\netcoreapp2.2\11. Practise code.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\11. Practise code\bin\Debug\netcoreapp2.2\11. Practise code.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\11. Practise code\bin\Debug\netcoreapp2.2\11. Practise code.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\11. Practise code\bin\Debug\netcoreapp2.2\11. Practise code.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\11. Practise code\bin\Debug\netcoreapp2.2\11. Practise code.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\11. Practise code\obj\Debug\netcoreapp2.2\11. Practise code.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\11. Practise code\obj\Debug\netcoreapp2.2\11. Practise code.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\11. Practise code\obj\Debug\netcoreapp2.2\11. Practise code.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\11. Practise code\obj\Debug\netcoreapp2.2\11. Practise code.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\11. Practise code\obj\Debug\netcoreapp2.2\11. Practise code.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\11. Practise code\obj\Debug\netcoreapp2.2\11. Practise code.pdb

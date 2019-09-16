@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\01. KmToMeters\bin\Debug\netcoreapp2.2\01. KmToMeters.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\01. KmToMeters\bin\Debug\netcoreapp2.2\01. KmToMeters.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\01. KmToMeters\bin\Debug\netcoreapp2.2\01. KmToMeters.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\01. KmToMeters\bin\Debug\netcoreapp2.2\01. KmToMeters.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\01. KmToMeters\bin\Debug\netcoreapp2.2\01. KmToMeters.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\01. KmToMeters\obj\Debug\netcoreapp2.2\01. KmToMeters.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\01. KmToMeters\obj\Debug\netcoreapp2.2\01. KmToMeters.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\01. KmToMeters\obj\Debug\netcoreapp2.2\01. KmToMeters.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\01. KmToMeters\obj\Debug\netcoreapp2.2\01. KmToMeters.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\01. KmToMeters\obj\Debug\netcoreapp2.2\01. KmToMeters.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\01. KmToMeters\obj\Debug\netcoreapp2.2\01. KmToMeters.pdb

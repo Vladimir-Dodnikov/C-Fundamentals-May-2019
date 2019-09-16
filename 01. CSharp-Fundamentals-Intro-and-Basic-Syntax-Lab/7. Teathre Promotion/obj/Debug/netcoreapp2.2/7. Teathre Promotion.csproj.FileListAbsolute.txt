@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Teathre Promotion\bin\Debug\netcoreapp2.2\7. Teathre Promotion.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Teathre Promotion\bin\Debug\netcoreapp2.2\7. Teathre Promotion.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Teathre Promotion\bin\Debug\netcoreapp2.2\7. Teathre Promotion.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Teathre Promotion\bin\Debug\netcoreapp2.2\7. Teathre Promotion.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Teathre Promotion\bin\Debug\netcoreapp2.2\7. Teathre Promotion.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Teathre Promotion\obj\Debug\netcoreapp2.2\7. Teathre Promotion.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Teathre Promotion\obj\Debug\netcoreapp2.2\7. Teathre Promotion.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Teathre Promotion\obj\Debug\netcoreapp2.2\7. Teathre Promotion.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Teathre Promotion\obj\Debug\netcoreapp2.2\7. Teathre Promotion.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Teathre Promotion\obj\Debug\netcoreapp2.2\7. Teathre Promotion.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Teathre Promotion\obj\Debug\netcoreapp2.2\7. Teathre Promotion.pdb

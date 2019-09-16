@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - More exercises\03. TakeOrSkip Rope\bin\Debug\netcoreapp2.2\03. TakeOrSkip Rope.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - More exercises\03. TakeOrSkip Rope\bin\Debug\netcoreapp2.2\03. TakeOrSkip Rope.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - More exercises\03. TakeOrSkip Rope\bin\Debug\netcoreapp2.2\03. TakeOrSkip Rope.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - More exercises\03. TakeOrSkip Rope\bin\Debug\netcoreapp2.2\03. TakeOrSkip Rope.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - More exercises\03. TakeOrSkip Rope\bin\Debug\netcoreapp2.2\03. TakeOrSkip Rope.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - More exercises\03. TakeOrSkip Rope\obj\Debug\netcoreapp2.2\03. TakeOrSkip Rope.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - More exercises\03. TakeOrSkip Rope\obj\Debug\netcoreapp2.2\03. TakeOrSkip Rope.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - More exercises\03. TakeOrSkip Rope\obj\Debug\netcoreapp2.2\03. TakeOrSkip Rope.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - More exercises\03. TakeOrSkip Rope\obj\Debug\netcoreapp2.2\03. TakeOrSkip Rope.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - More exercises\03. TakeOrSkip Rope\obj\Debug\netcoreapp2.2\03. TakeOrSkip Rope.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - More exercises\03. TakeOrSkip Rope\obj\Debug\netcoreapp2.2\03. TakeOrSkip Rope.pdb

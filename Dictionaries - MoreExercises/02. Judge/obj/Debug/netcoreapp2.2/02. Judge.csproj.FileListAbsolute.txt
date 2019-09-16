@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\02. Judge\bin\Debug\netcoreapp2.2\02. Judge.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\02. Judge\bin\Debug\netcoreapp2.2\02. Judge.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\02. Judge\bin\Debug\netcoreapp2.2\02. Judge.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\02. Judge\bin\Debug\netcoreapp2.2\02. Judge.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\02. Judge\bin\Debug\netcoreapp2.2\02. Judge.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\02. Judge\obj\Debug\netcoreapp2.2\02. Judge.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\02. Judge\obj\Debug\netcoreapp2.2\02. Judge.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\02. Judge\obj\Debug\netcoreapp2.2\02. Judge.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\02. Judge\obj\Debug\netcoreapp2.2\02. Judge.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\02. Judge\obj\Debug\netcoreapp2.2\02. Judge.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\02. Judge\obj\Debug\netcoreapp2.2\02. Judge.pdb

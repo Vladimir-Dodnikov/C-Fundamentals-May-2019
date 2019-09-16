@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\04. Tribonacci Sequence\bin\Debug\netcoreapp2.2\04. Tribonacci Sequence.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\04. Tribonacci Sequence\bin\Debug\netcoreapp2.2\04. Tribonacci Sequence.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\04. Tribonacci Sequence\bin\Debug\netcoreapp2.2\04. Tribonacci Sequence.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\04. Tribonacci Sequence\bin\Debug\netcoreapp2.2\04. Tribonacci Sequence.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\04. Tribonacci Sequence\bin\Debug\netcoreapp2.2\04. Tribonacci Sequence.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\04. Tribonacci Sequence\obj\Debug\netcoreapp2.2\04. Tribonacci Sequence.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\04. Tribonacci Sequence\obj\Debug\netcoreapp2.2\04. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\04. Tribonacci Sequence\obj\Debug\netcoreapp2.2\04. Tribonacci Sequence.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\04. Tribonacci Sequence\obj\Debug\netcoreapp2.2\04. Tribonacci Sequence.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\04. Tribonacci Sequence\obj\Debug\netcoreapp2.2\04. Tribonacci Sequence.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\04. Tribonacci Sequence\obj\Debug\netcoreapp2.2\04. Tribonacci Sequence.pdb

@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Vanding Machine\bin\Debug\netcoreapp2.2\7. Vanding Machine.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Vanding Machine\bin\Debug\netcoreapp2.2\7. Vanding Machine.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Vanding Machine\bin\Debug\netcoreapp2.2\7. Vanding Machine.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Vanding Machine\bin\Debug\netcoreapp2.2\7. Vanding Machine.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Vanding Machine\bin\Debug\netcoreapp2.2\7. Vanding Machine.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Vanding Machine\obj\Debug\netcoreapp2.2\7. Vanding Machine.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Vanding Machine\obj\Debug\netcoreapp2.2\7. Vanding Machine.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Vanding Machine\obj\Debug\netcoreapp2.2\7. Vanding Machine.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Vanding Machine\obj\Debug\netcoreapp2.2\7. Vanding Machine.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Vanding Machine\obj\Debug\netcoreapp2.2\7. Vanding Machine.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\7. Vanding Machine\obj\Debug\netcoreapp2.2\7. Vanding Machine.pdb

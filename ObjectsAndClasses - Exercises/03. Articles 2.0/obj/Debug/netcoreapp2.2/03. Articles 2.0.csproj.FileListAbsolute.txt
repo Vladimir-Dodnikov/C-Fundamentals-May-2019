@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Exercises\03. Articles 2.0\bin\Debug\netcoreapp2.2\03. Articles 2.0.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Exercises\03. Articles 2.0\bin\Debug\netcoreapp2.2\03. Articles 2.0.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Exercises\03. Articles 2.0\bin\Debug\netcoreapp2.2\03. Articles 2.0.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Exercises\03. Articles 2.0\bin\Debug\netcoreapp2.2\03. Articles 2.0.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Exercises\03. Articles 2.0\bin\Debug\netcoreapp2.2\03. Articles 2.0.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Exercises\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Exercises\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Exercises\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Exercises\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Exercises\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Exercises\03. Articles 2.0\obj\Debug\netcoreapp2.2\03. Articles 2.0.pdb

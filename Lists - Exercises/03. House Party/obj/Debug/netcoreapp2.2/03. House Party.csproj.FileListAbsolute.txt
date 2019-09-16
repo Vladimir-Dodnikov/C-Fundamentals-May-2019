@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\03. House Party\bin\Debug\netcoreapp2.2\03. House Party.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\03. House Party\bin\Debug\netcoreapp2.2\03. House Party.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\03. House Party\bin\Debug\netcoreapp2.2\03. House Party.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\03. House Party\bin\Debug\netcoreapp2.2\03. House Party.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\03. House Party\bin\Debug\netcoreapp2.2\03. House Party.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\03. House Party\obj\Debug\netcoreapp2.2\03. House Party.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\03. House Party\obj\Debug\netcoreapp2.2\03. House Party.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\03. House Party\obj\Debug\netcoreapp2.2\03. House Party.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\03. House Party\obj\Debug\netcoreapp2.2\03. House Party.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\03. House Party\obj\Debug\netcoreapp2.2\03. House Party.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\03. House Party\obj\Debug\netcoreapp2.2\03. House Party.pdb

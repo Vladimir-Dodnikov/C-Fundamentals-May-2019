@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\05. Add and Subtract\bin\Debug\netcoreapp2.2\05. Add and Subtract.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\05. Add and Subtract\bin\Debug\netcoreapp2.2\05. Add and Subtract.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\05. Add and Subtract\bin\Debug\netcoreapp2.2\05. Add and Subtract.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\05. Add and Subtract\bin\Debug\netcoreapp2.2\05. Add and Subtract.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\05. Add and Subtract\bin\Debug\netcoreapp2.2\05. Add and Subtract.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\05. Add and Subtract\obj\Debug\netcoreapp2.2\05. Add and Subtract.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\05. Add and Subtract\obj\Debug\netcoreapp2.2\05. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\05. Add and Subtract\obj\Debug\netcoreapp2.2\05. Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\05. Add and Subtract\obj\Debug\netcoreapp2.2\05. Add and Subtract.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\05. Add and Subtract\obj\Debug\netcoreapp2.2\05. Add and Subtract.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\05. Add and Subtract\obj\Debug\netcoreapp2.2\05. Add and Subtract.pdb

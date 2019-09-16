@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\10. Top Number\bin\Debug\netcoreapp2.2\10. Top Number.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\10. Top Number\bin\Debug\netcoreapp2.2\10. Top Number.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\10. Top Number\bin\Debug\netcoreapp2.2\10. Top Number.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\10. Top Number\bin\Debug\netcoreapp2.2\10. Top Number.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\10. Top Number\bin\Debug\netcoreapp2.2\10. Top Number.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp2.2\10. Top Number.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp2.2\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp2.2\10. Top Number.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp2.2\10. Top Number.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp2.2\10. Top Number.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - Exercises\10. Top Number\obj\Debug\netcoreapp2.2\10. Top Number.pdb

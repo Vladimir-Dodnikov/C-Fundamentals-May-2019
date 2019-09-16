@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Triangle of Numbers\bin\Debug\netcoreapp2.2\8. Triangle of Numbers.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Triangle of Numbers\bin\Debug\netcoreapp2.2\8. Triangle of Numbers.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Triangle of Numbers\bin\Debug\netcoreapp2.2\8. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Triangle of Numbers\bin\Debug\netcoreapp2.2\8. Triangle of Numbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Triangle of Numbers\bin\Debug\netcoreapp2.2\8. Triangle of Numbers.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Triangle of Numbers\obj\Debug\netcoreapp2.2\8. Triangle of Numbers.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Triangle of Numbers\obj\Debug\netcoreapp2.2\8. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Triangle of Numbers\obj\Debug\netcoreapp2.2\8. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Triangle of Numbers\obj\Debug\netcoreapp2.2\8. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Triangle of Numbers\obj\Debug\netcoreapp2.2\8. Triangle of Numbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\8. Triangle of Numbers\obj\Debug\netcoreapp2.2\8. Triangle of Numbers.pdb

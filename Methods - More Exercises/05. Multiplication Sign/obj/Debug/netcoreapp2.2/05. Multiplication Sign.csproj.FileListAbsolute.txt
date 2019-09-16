@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\05. Multiplication Sign\bin\Debug\netcoreapp2.2\05. Multiplication Sign.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\05. Multiplication Sign\bin\Debug\netcoreapp2.2\05. Multiplication Sign.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\05. Multiplication Sign\bin\Debug\netcoreapp2.2\05. Multiplication Sign.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\05. Multiplication Sign\bin\Debug\netcoreapp2.2\05. Multiplication Sign.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\05. Multiplication Sign\bin\Debug\netcoreapp2.2\05. Multiplication Sign.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\05. Multiplication Sign\obj\Debug\netcoreapp2.2\05. Multiplication Sign.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\05. Multiplication Sign\obj\Debug\netcoreapp2.2\05. Multiplication Sign.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\05. Multiplication Sign\obj\Debug\netcoreapp2.2\05. Multiplication Sign.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\05. Multiplication Sign\obj\Debug\netcoreapp2.2\05. Multiplication Sign.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\05. Multiplication Sign\obj\Debug\netcoreapp2.2\05. Multiplication Sign.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\05. Multiplication Sign\obj\Debug\netcoreapp2.2\05. Multiplication Sign.pdb

@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\01. Ranking\bin\Debug\netcoreapp2.2\01. Ranking.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\01. Ranking\bin\Debug\netcoreapp2.2\01. Ranking.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\01. Ranking\bin\Debug\netcoreapp2.2\01. Ranking.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\01. Ranking\bin\Debug\netcoreapp2.2\01. Ranking.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\01. Ranking\bin\Debug\netcoreapp2.2\01. Ranking.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\01. Ranking\obj\Debug\netcoreapp2.2\01. Ranking.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\01. Ranking\obj\Debug\netcoreapp2.2\01. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\01. Ranking\obj\Debug\netcoreapp2.2\01. Ranking.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\01. Ranking\obj\Debug\netcoreapp2.2\01. Ranking.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\01. Ranking\obj\Debug\netcoreapp2.2\01. Ranking.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - MoreExercises\01. Ranking\obj\Debug\netcoreapp2.2\01. Ranking.pdb

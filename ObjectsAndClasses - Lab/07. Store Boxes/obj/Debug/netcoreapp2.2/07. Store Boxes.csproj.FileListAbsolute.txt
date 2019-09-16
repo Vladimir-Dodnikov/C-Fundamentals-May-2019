@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Lab\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Lab\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Lab\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Lab\07. Store Boxes\bin\Debug\netcoreapp2.2\07. Store Boxes.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Lab\07. Store Boxes\bin\Debug\netcoreapp2.2\07. Store Boxes.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Lab\07. Store Boxes\bin\Debug\netcoreapp2.2\07. Store Boxes.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Lab\07. Store Boxes\bin\Debug\netcoreapp2.2\07. Store Boxes.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Lab\07. Store Boxes\bin\Debug\netcoreapp2.2\07. Store Boxes.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Lab\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Lab\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\13. Objects and Classes\ObjectsAndClasses - Lab\07. Store Boxes\obj\Debug\netcoreapp2.2\07. Store Boxes.pdb

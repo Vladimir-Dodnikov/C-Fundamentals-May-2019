@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\03. Feed the Animals\bin\Debug\netcoreapp2.2\03. Feed the Animals.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\03. Feed the Animals\bin\Debug\netcoreapp2.2\03. Feed the Animals.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\03. Feed the Animals\bin\Debug\netcoreapp2.2\03. Feed the Animals.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\03. Feed the Animals\bin\Debug\netcoreapp2.2\03. Feed the Animals.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\03. Feed the Animals\bin\Debug\netcoreapp2.2\03. Feed the Animals.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\03. Feed the Animals\obj\Debug\netcoreapp2.2\03. Feed the Animals.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\03. Feed the Animals\obj\Debug\netcoreapp2.2\03. Feed the Animals.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\03. Feed the Animals\obj\Debug\netcoreapp2.2\03. Feed the Animals.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\03. Feed the Animals\obj\Debug\netcoreapp2.2\03. Feed the Animals.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\03. Feed the Animals\obj\Debug\netcoreapp2.2\03. Feed the Animals.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - FinalExam - 21.07.2019\Test - FinalExam\03. Feed the Animals\obj\Debug\netcoreapp2.2\03. Feed the Animals.pdb

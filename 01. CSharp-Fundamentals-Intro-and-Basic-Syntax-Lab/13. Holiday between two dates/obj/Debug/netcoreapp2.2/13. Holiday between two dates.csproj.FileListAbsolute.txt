@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\13. Holiday between two dates\obj\Debug\netcoreapp2.2\13. Holiday between two dates.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\13. Holiday between two dates\obj\Debug\netcoreapp2.2\13. Holiday between two dates.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\13. Holiday between two dates\obj\Debug\netcoreapp2.2\13. Holiday between two dates.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\13. Holiday between two dates\obj\Debug\netcoreapp2.2\13. Holiday between two dates.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\13. Holiday between two dates\bin\Debug\netcoreapp2.2\13. Holiday between two dates.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\13. Holiday between two dates\bin\Debug\netcoreapp2.2\13. Holiday between two dates.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\13. Holiday between two dates\bin\Debug\netcoreapp2.2\13. Holiday between two dates.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\13. Holiday between two dates\bin\Debug\netcoreapp2.2\13. Holiday between two dates.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\13. Holiday between two dates\bin\Debug\netcoreapp2.2\13. Holiday between two dates.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\13. Holiday between two dates\obj\Debug\netcoreapp2.2\13. Holiday between two dates.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\13. Holiday between two dates\obj\Debug\netcoreapp2.2\13. Holiday between two dates.pdb

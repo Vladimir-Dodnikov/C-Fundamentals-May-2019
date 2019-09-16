@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\02. NumsReverseOrder\bin\Debug\netcoreapp2.2\02. NumsReverseOrder.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\02. NumsReverseOrder\bin\Debug\netcoreapp2.2\02. NumsReverseOrder.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\02. NumsReverseOrder\bin\Debug\netcoreapp2.2\02. NumsReverseOrder.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\02. NumsReverseOrder\bin\Debug\netcoreapp2.2\02. NumsReverseOrder.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\02. NumsReverseOrder\bin\Debug\netcoreapp2.2\02. NumsReverseOrder.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\02. NumsReverseOrder\obj\Debug\netcoreapp2.2\02. NumsReverseOrder.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\02. NumsReverseOrder\obj\Debug\netcoreapp2.2\02. NumsReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\02. NumsReverseOrder\obj\Debug\netcoreapp2.2\02. NumsReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\02. NumsReverseOrder\obj\Debug\netcoreapp2.2\02. NumsReverseOrder.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\02. NumsReverseOrder\obj\Debug\netcoreapp2.2\02. NumsReverseOrder.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\02. NumsReverseOrder\obj\Debug\netcoreapp2.2\02. NumsReverseOrder.pdb

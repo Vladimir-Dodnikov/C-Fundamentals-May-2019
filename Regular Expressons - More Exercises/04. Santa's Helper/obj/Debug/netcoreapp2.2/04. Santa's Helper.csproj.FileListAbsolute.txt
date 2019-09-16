@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\04. Santa's Helper\bin\Debug\netcoreapp2.2\04. Santa's Helper.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\04. Santa's Helper\bin\Debug\netcoreapp2.2\04. Santa's Helper.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\04. Santa's Helper\bin\Debug\netcoreapp2.2\04. Santa's Helper.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\04. Santa's Helper\bin\Debug\netcoreapp2.2\04. Santa's Helper.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\04. Santa's Helper\bin\Debug\netcoreapp2.2\04. Santa's Helper.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\04. Santa's Helper\obj\Debug\netcoreapp2.2\04. Santa's Helper.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\04. Santa's Helper\obj\Debug\netcoreapp2.2\04. Santa's Helper.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\04. Santa's Helper\obj\Debug\netcoreapp2.2\04. Santa's Helper.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\04. Santa's Helper\obj\Debug\netcoreapp2.2\04. Santa's Helper.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\04. Santa's Helper\obj\Debug\netcoreapp2.2\04. Santa's Helper.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressons - More Exercises\04. Santa's Helper\obj\Debug\netcoreapp2.2\04. Santa's Helper.pdb

@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Print and Sum\bin\Debug\netcoreapp2.2\4. Print and Sum.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Print and Sum\bin\Debug\netcoreapp2.2\4. Print and Sum.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Print and Sum\bin\Debug\netcoreapp2.2\4. Print and Sum.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Print and Sum\bin\Debug\netcoreapp2.2\4. Print and Sum.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Print and Sum\bin\Debug\netcoreapp2.2\4. Print and Sum.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Print and Sum\obj\Debug\netcoreapp2.2\4. Print and Sum.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Print and Sum\obj\Debug\netcoreapp2.2\4. Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Print and Sum\obj\Debug\netcoreapp2.2\4. Print and Sum.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Print and Sum\obj\Debug\netcoreapp2.2\4. Print and Sum.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Print and Sum\obj\Debug\netcoreapp2.2\4. Print and Sum.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\4. Print and Sum\obj\Debug\netcoreapp2.2\4. Print and Sum.pdb

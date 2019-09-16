@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\06. Cards Game\bin\Debug\netcoreapp2.2\06. Cards Game.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\06. Cards Game\bin\Debug\netcoreapp2.2\06. Cards Game.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\06. Cards Game\bin\Debug\netcoreapp2.2\06. Cards Game.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\06. Cards Game\bin\Debug\netcoreapp2.2\06. Cards Game.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\06. Cards Game\bin\Debug\netcoreapp2.2\06. Cards Game.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\06. Cards Game\obj\Debug\netcoreapp2.2\06. Cards Game.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\06. Cards Game\obj\Debug\netcoreapp2.2\06. Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\06. Cards Game\obj\Debug\netcoreapp2.2\06. Cards Game.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\06. Cards Game\obj\Debug\netcoreapp2.2\06. Cards Game.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\06. Cards Game\obj\Debug\netcoreapp2.2\06. Cards Game.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\06. Cards Game\obj\Debug\netcoreapp2.2\06. Cards Game.pdb

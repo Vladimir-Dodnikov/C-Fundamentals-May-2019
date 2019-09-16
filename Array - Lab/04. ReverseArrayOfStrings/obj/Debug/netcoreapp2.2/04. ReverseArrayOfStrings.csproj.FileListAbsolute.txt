@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\04. ReverseArrayOfStrings\bin\Debug\netcoreapp2.2\04. ReverseArrayOfStrings.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\04. ReverseArrayOfStrings\bin\Debug\netcoreapp2.2\04. ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\04. ReverseArrayOfStrings\bin\Debug\netcoreapp2.2\04. ReverseArrayOfStrings.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\04. ReverseArrayOfStrings\bin\Debug\netcoreapp2.2\04. ReverseArrayOfStrings.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\04. ReverseArrayOfStrings\bin\Debug\netcoreapp2.2\04. ReverseArrayOfStrings.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp2.2\04. ReverseArrayOfStrings.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp2.2\04. ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp2.2\04. ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp2.2\04. ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp2.2\04. ReverseArrayOfStrings.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp2.2\04. ReverseArrayOfStrings.pdb

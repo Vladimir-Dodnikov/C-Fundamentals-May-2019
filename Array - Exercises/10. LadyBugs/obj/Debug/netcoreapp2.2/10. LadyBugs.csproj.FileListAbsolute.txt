@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\10. LadyBugs\bin\Debug\netcoreapp2.2\10. LadyBugs.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\10. LadyBugs\bin\Debug\netcoreapp2.2\10. LadyBugs.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\10. LadyBugs\bin\Debug\netcoreapp2.2\10. LadyBugs.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\10. LadyBugs\bin\Debug\netcoreapp2.2\10. LadyBugs.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\10. LadyBugs\bin\Debug\netcoreapp2.2\10. LadyBugs.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\10. LadyBugs\obj\Debug\netcoreapp2.2\10. LadyBugs.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\10. LadyBugs\obj\Debug\netcoreapp2.2\10. LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\10. LadyBugs\obj\Debug\netcoreapp2.2\10. LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\10. LadyBugs\obj\Debug\netcoreapp2.2\10. LadyBugs.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\10. LadyBugs\obj\Debug\netcoreapp2.2\10. LadyBugs.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\10. LadyBugs\obj\Debug\netcoreapp2.2\10. LadyBugs.pdb

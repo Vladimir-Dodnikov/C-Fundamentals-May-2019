@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\03. SumRealNumbers\bin\Debug\netcoreapp2.2\03. SumRealNumbers.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\03. SumRealNumbers\bin\Debug\netcoreapp2.2\03. SumRealNumbers.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\03. SumRealNumbers\bin\Debug\netcoreapp2.2\03. SumRealNumbers.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\03. SumRealNumbers\bin\Debug\netcoreapp2.2\03. SumRealNumbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\03. SumRealNumbers\bin\Debug\netcoreapp2.2\03. SumRealNumbers.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\03. SumRealNumbers\obj\Debug\netcoreapp2.2\03. SumRealNumbers.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\03. SumRealNumbers\obj\Debug\netcoreapp2.2\03. SumRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\03. SumRealNumbers\obj\Debug\netcoreapp2.2\03. SumRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\03. SumRealNumbers\obj\Debug\netcoreapp2.2\03. SumRealNumbers.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\03. SumRealNumbers\obj\Debug\netcoreapp2.2\03. SumRealNumbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\03. SumRealNumbers\obj\Debug\netcoreapp2.2\03. SumRealNumbers.pdb

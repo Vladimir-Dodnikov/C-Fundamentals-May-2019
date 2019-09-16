@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\03. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. ENname\obj\Debug\netcoreapp2.2\2. ENname.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\03. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. ENname\obj\Debug\netcoreapp2.2\2. ENname.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\03. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. ENname\obj\Debug\netcoreapp2.2\2. ENname.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\03. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. ENname\obj\Debug\netcoreapp2.2\2. ENname.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\03. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. ENname\bin\Debug\netcoreapp2.2\2. ENname.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\03. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. ENname\bin\Debug\netcoreapp2.2\2. ENname.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\03. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. ENname\bin\Debug\netcoreapp2.2\2. ENname.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\03. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. ENname\bin\Debug\netcoreapp2.2\2. ENname.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\03. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. ENname\bin\Debug\netcoreapp2.2\2. ENname.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\03. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. ENname\obj\Debug\netcoreapp2.2\2. ENname.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\03. CSharp-Fundamentals-Intro-and-Basic-Syntax-More-Exercise\2. ENname\obj\Debug\netcoreapp2.2\2. ENname.pdb

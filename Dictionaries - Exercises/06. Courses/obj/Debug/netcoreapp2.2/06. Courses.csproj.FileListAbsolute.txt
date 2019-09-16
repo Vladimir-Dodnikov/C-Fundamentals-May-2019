@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\06. Courses\bin\Debug\netcoreapp2.2\06. Courses.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\06. Courses\bin\Debug\netcoreapp2.2\06. Courses.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\06. Courses\bin\Debug\netcoreapp2.2\06. Courses.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\06. Courses\bin\Debug\netcoreapp2.2\06. Courses.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\06. Courses\bin\Debug\netcoreapp2.2\06. Courses.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\06. Courses\obj\Debug\netcoreapp2.2\06. Courses.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\06. Courses\obj\Debug\netcoreapp2.2\06. Courses.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\06. Courses\obj\Debug\netcoreapp2.2\06. Courses.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\06. Courses\obj\Debug\netcoreapp2.2\06. Courses.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\06. Courses\obj\Debug\netcoreapp2.2\06. Courses.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\16. Associative Arrays\Dictionaries - Exercises\06. Courses\obj\Debug\netcoreapp2.2\06. Courses.pdb

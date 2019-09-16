@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\02. Easter Gifts\bin\Debug\netcoreapp2.2\02. Easter Gifts.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\02. Easter Gifts\bin\Debug\netcoreapp2.2\02. Easter Gifts.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\02. Easter Gifts\bin\Debug\netcoreapp2.2\02. Easter Gifts.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\02. Easter Gifts\bin\Debug\netcoreapp2.2\02. Easter Gifts.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\02. Easter Gifts\bin\Debug\netcoreapp2.2\02. Easter Gifts.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\02. Easter Gifts\obj\Debug\netcoreapp2.2\02. Easter Gifts.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\02. Easter Gifts\obj\Debug\netcoreapp2.2\02. Easter Gifts.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\02. Easter Gifts\obj\Debug\netcoreapp2.2\02. Easter Gifts.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\02. Easter Gifts\obj\Debug\netcoreapp2.2\02. Easter Gifts.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\02. Easter Gifts\obj\Debug\netcoreapp2.2\02. Easter Gifts.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\02. Easter Gifts\obj\Debug\netcoreapp2.2\02. Easter Gifts.pdb

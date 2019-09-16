@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Temenuzhka\\Desktop\\C# Fundamentals\\13. Objects and Classes\\ObjectsAndClasses - More exercises\\01. Company Roster\\01. Company Roster.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Temenuzhka\\Desktop\\C# Fundamentals\\13. Objects and Classes\\ObjectsAndClasses - More exercises\\01. Company Roster\\01. Company Roster.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Temenuzhka\\Desktop\\C# Fundamentals\\13. Objects and Classes\\ObjectsAndClasses - More exercises\\01. Company Roster\\01. Company Roster.csproj",
+        "projectName": "01. Company Roster",
+        "projectPath": "C:\\Users\\Temenuzhka\\Desktop\\C# Fundamentals\\13. Objects and Classes\\ObjectsAndClasses - More exercises\\01. Company Roster\\01. Company Roster.csproj",
+        "packagesPath": "C:\\Users\\Temenuzhka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Temenuzhka\\Desktop\\C# Fundamentals\\13. Objects and Classes\\ObjectsAndClasses - More exercises\\01. Company Roster\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Temenuzhka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

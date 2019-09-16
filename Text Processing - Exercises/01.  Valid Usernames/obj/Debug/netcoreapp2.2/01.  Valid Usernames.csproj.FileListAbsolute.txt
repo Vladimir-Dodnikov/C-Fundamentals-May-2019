@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\01.  Valid Usernames\bin\Debug\netcoreapp2.2\01.  Valid Usernames.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\01.  Valid Usernames\bin\Debug\netcoreapp2.2\01.  Valid Usernames.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\01.  Valid Usernames\bin\Debug\netcoreapp2.2\01.  Valid Usernames.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\01.  Valid Usernames\bin\Debug\netcoreapp2.2\01.  Valid Usernames.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\01.  Valid Usernames\bin\Debug\netcoreapp2.2\01.  Valid Usernames.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\01.  Valid Usernames\obj\Debug\netcoreapp2.2\01.  Valid Usernames.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\01.  Valid Usernames\obj\Debug\netcoreapp2.2\01.  Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\01.  Valid Usernames\obj\Debug\netcoreapp2.2\01.  Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\01.  Valid Usernames\obj\Debug\netcoreapp2.2\01.  Valid Usernames.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\01.  Valid Usernames\obj\Debug\netcoreapp2.2\01.  Valid Usernames.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\01.  Valid Usernames\obj\Debug\netcoreapp2.2\01.  Valid Usernames.pdb

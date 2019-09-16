@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\02. Center Point\bin\Debug\netcoreapp2.2\02. Center Point.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\02. Center Point\bin\Debug\netcoreapp2.2\02. Center Point.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\02. Center Point\bin\Debug\netcoreapp2.2\02. Center Point.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\02. Center Point\bin\Debug\netcoreapp2.2\02. Center Point.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\02. Center Point\bin\Debug\netcoreapp2.2\02. Center Point.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp2.2\02. Center Point.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp2.2\02. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp2.2\02. Center Point.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp2.2\02. Center Point.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp2.2\02. Center Point.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\09. Methods\Methods - More Exercises\02. Center Point\obj\Debug\netcoreapp2.2\02. Center Point.pdb

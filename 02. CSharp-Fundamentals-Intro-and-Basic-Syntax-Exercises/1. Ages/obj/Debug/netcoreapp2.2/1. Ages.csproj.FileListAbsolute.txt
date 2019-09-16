@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\02. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercises\1. Ages\bin\Debug\netcoreapp2.2\1. Ages.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\02. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercises\1. Ages\bin\Debug\netcoreapp2.2\1. Ages.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\02. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercises\1. Ages\bin\Debug\netcoreapp2.2\1. Ages.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\02. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercises\1. Ages\bin\Debug\netcoreapp2.2\1. Ages.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\02. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercises\1. Ages\bin\Debug\netcoreapp2.2\1. Ages.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\02. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercises\1. Ages\obj\Debug\netcoreapp2.2\1. Ages.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\02. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercises\1. Ages\obj\Debug\netcoreapp2.2\1. Ages.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\02. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercises\1. Ages\obj\Debug\netcoreapp2.2\1. Ages.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\02. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercises\1. Ages\obj\Debug\netcoreapp2.2\1. Ages.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\02. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercises\1. Ages\obj\Debug\netcoreapp2.2\1. Ages.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\02. CSharp-Fundamentals-Intro-and-Basic-Syntax-Exercises\1. Ages\obj\Debug\netcoreapp2.2\1. Ages.pdb

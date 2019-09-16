@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\05. Bomb Numbers\bin\Debug\netcoreapp2.2\05. Bomb Numbers.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\05. Bomb Numbers\bin\Debug\netcoreapp2.2\05. Bomb Numbers.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\05. Bomb Numbers\bin\Debug\netcoreapp2.2\05. Bomb Numbers.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\05. Bomb Numbers\bin\Debug\netcoreapp2.2\05. Bomb Numbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\05. Bomb Numbers\bin\Debug\netcoreapp2.2\05. Bomb Numbers.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\05. Bomb Numbers\obj\Debug\netcoreapp2.2\05. Bomb Numbers.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\05. Bomb Numbers\obj\Debug\netcoreapp2.2\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\05. Bomb Numbers\obj\Debug\netcoreapp2.2\05. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\05. Bomb Numbers\obj\Debug\netcoreapp2.2\05. Bomb Numbers.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\05. Bomb Numbers\obj\Debug\netcoreapp2.2\05. Bomb Numbers.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\11. Lists (Array advanced)\Lists - Exercises\05. Bomb Numbers\obj\Debug\netcoreapp2.2\05. Bomb Numbers.pdb

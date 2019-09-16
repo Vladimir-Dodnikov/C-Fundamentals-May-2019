@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\06. EqualSum\bin\Debug\netcoreapp2.2\06. EqualSum.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\06. EqualSum\bin\Debug\netcoreapp2.2\06. EqualSum.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\06. EqualSum\bin\Debug\netcoreapp2.2\06. EqualSum.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\06. EqualSum\bin\Debug\netcoreapp2.2\06. EqualSum.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\06. EqualSum\bin\Debug\netcoreapp2.2\06. EqualSum.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\06. EqualSum\obj\Debug\netcoreapp2.2\06. EqualSum.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\06. EqualSum\obj\Debug\netcoreapp2.2\06. EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\06. EqualSum\obj\Debug\netcoreapp2.2\06. EqualSum.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\06. EqualSum\obj\Debug\netcoreapp2.2\06. EqualSum.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\06. EqualSum\obj\Debug\netcoreapp2.2\06. EqualSum.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Exercises\06. EqualSum\obj\Debug\netcoreapp2.2\06. EqualSum.pdb

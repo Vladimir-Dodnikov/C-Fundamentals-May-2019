@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\9. Padawan Equipment\obj\Debug\netcoreapp2.2\9. Padawan Equipment.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\9. Padawan Equipment\obj\Debug\netcoreapp2.2\9. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\9. Padawan Equipment\obj\Debug\netcoreapp2.2\9. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\9. Padawan Equipment\obj\Debug\netcoreapp2.2\9. Padawan Equipment.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\9. Padawan Equipment\bin\Debug\netcoreapp2.2\9. Padawan Equipment.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\9. Padawan Equipment\bin\Debug\netcoreapp2.2\9. Padawan Equipment.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\9. Padawan Equipment\bin\Debug\netcoreapp2.2\9. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\9. Padawan Equipment\bin\Debug\netcoreapp2.2\9. Padawan Equipment.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\9. Padawan Equipment\bin\Debug\netcoreapp2.2\9. Padawan Equipment.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\9. Padawan Equipment\obj\Debug\netcoreapp2.2\9. Padawan Equipment.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\9. Padawan Equipment\obj\Debug\netcoreapp2.2\9. Padawan Equipment.pdb

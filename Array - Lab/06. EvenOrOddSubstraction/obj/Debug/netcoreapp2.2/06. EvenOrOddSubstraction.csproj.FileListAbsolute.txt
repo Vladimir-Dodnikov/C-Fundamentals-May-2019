@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\06. EvenOrOddSubstraction\bin\Debug\netcoreapp2.2\06. EvenOrOddSubstraction.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\06. EvenOrOddSubstraction\bin\Debug\netcoreapp2.2\06. EvenOrOddSubstraction.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\06. EvenOrOddSubstraction\bin\Debug\netcoreapp2.2\06. EvenOrOddSubstraction.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\06. EvenOrOddSubstraction\bin\Debug\netcoreapp2.2\06. EvenOrOddSubstraction.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\06. EvenOrOddSubstraction\bin\Debug\netcoreapp2.2\06. EvenOrOddSubstraction.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\06. EvenOrOddSubstraction\obj\Debug\netcoreapp2.2\06. EvenOrOddSubstraction.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\06. EvenOrOddSubstraction\obj\Debug\netcoreapp2.2\06. EvenOrOddSubstraction.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\06. EvenOrOddSubstraction\obj\Debug\netcoreapp2.2\06. EvenOrOddSubstraction.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\06. EvenOrOddSubstraction\obj\Debug\netcoreapp2.2\06. EvenOrOddSubstraction.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\06. EvenOrOddSubstraction\obj\Debug\netcoreapp2.2\06. EvenOrOddSubstraction.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\06. EvenOrOddSubstraction\obj\Debug\netcoreapp2.2\06. EvenOrOddSubstraction.pdb

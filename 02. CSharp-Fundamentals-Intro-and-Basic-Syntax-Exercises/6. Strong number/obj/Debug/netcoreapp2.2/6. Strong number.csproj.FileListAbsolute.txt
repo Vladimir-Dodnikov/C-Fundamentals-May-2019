@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\6. Strong number\bin\Debug\netcoreapp2.2\6. Strong number.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\6. Strong number\bin\Debug\netcoreapp2.2\6. Strong number.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\6. Strong number\bin\Debug\netcoreapp2.2\6. Strong number.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\6. Strong number\bin\Debug\netcoreapp2.2\6. Strong number.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\6. Strong number\bin\Debug\netcoreapp2.2\6. Strong number.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\6. Strong number\obj\Debug\netcoreapp2.2\6. Strong number.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\6. Strong number\obj\Debug\netcoreapp2.2\6. Strong number.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\6. Strong number\obj\Debug\netcoreapp2.2\6. Strong number.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\6. Strong number\obj\Debug\netcoreapp2.2\6. Strong number.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\6. Strong number\obj\Debug\netcoreapp2.2\6. Strong number.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\03. Basic Syntax, Conditional Statements and Loops\6. Strong number\obj\Debug\netcoreapp2.2\6. Strong number.pdb

@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\07. EqualArrays\obj\Debug\netcoreapp2.2\07. EqualArrays.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\07. EqualArrays\obj\Debug\netcoreapp2.2\07. EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\07. EqualArrays\obj\Debug\netcoreapp2.2\07. EqualArrays.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\07. EqualArrays\obj\Debug\netcoreapp2.2\07. EqualArrays.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\07. EqualArrays\bin\Debug\netcoreapp2.2\07. EqualArrays.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\07. EqualArrays\bin\Debug\netcoreapp2.2\07. EqualArrays.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\07. EqualArrays\bin\Debug\netcoreapp2.2\07. EqualArrays.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\07. EqualArrays\bin\Debug\netcoreapp2.2\07. EqualArrays.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\07. EqualArrays\bin\Debug\netcoreapp2.2\07. EqualArrays.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\07. EqualArrays\obj\Debug\netcoreapp2.2\07. EqualArrays.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Array - Lab\Array - Lab\07. EqualArrays\obj\Debug\netcoreapp2.2\07. EqualArrays.pdb

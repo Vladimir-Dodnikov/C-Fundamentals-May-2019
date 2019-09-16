@@ -1,0 +1,11 @@
+D:\C# Fundamentals\18. Text Processing\Text Processing - More Exercises\04. MorseCode Translator\obj\Debug\netcoreapp2.2\04. MorseCode Translator.csprojAssemblyReference.cache
+D:\C# Fundamentals\18. Text Processing\Text Processing - More Exercises\04. MorseCode Translator\obj\Debug\netcoreapp2.2\04. MorseCode Translator.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\18. Text Processing\Text Processing - More Exercises\04. MorseCode Translator\obj\Debug\netcoreapp2.2\04. MorseCode Translator.AssemblyInfoInputs.cache
+D:\C# Fundamentals\18. Text Processing\Text Processing - More Exercises\04. MorseCode Translator\obj\Debug\netcoreapp2.2\04. MorseCode Translator.AssemblyInfo.cs
+D:\C# Fundamentals\18. Text Processing\Text Processing - More Exercises\04. MorseCode Translator\bin\Debug\netcoreapp2.2\04. MorseCode Translator.deps.json
+D:\C# Fundamentals\18. Text Processing\Text Processing - More Exercises\04. MorseCode Translator\bin\Debug\netcoreapp2.2\04. MorseCode Translator.runtimeconfig.json
+D:\C# Fundamentals\18. Text Processing\Text Processing - More Exercises\04. MorseCode Translator\bin\Debug\netcoreapp2.2\04. MorseCode Translator.runtimeconfig.dev.json
+D:\C# Fundamentals\18. Text Processing\Text Processing - More Exercises\04. MorseCode Translator\bin\Debug\netcoreapp2.2\04. MorseCode Translator.dll
+D:\C# Fundamentals\18. Text Processing\Text Processing - More Exercises\04. MorseCode Translator\bin\Debug\netcoreapp2.2\04. MorseCode Translator.pdb
+D:\C# Fundamentals\18. Text Processing\Text Processing - More Exercises\04. MorseCode Translator\obj\Debug\netcoreapp2.2\04. MorseCode Translator.dll
+D:\C# Fundamentals\18. Text Processing\Text Processing - More Exercises\04. MorseCode Translator\obj\Debug\netcoreapp2.2\04. MorseCode Translator.pdb

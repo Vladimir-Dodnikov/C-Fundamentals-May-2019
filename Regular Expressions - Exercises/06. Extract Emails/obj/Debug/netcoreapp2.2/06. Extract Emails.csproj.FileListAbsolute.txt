@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\06. Extract Emails\bin\Debug\netcoreapp2.2\06. Extract Emails.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\06. Extract Emails\bin\Debug\netcoreapp2.2\06. Extract Emails.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\06. Extract Emails\bin\Debug\netcoreapp2.2\06. Extract Emails.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\06. Extract Emails\bin\Debug\netcoreapp2.2\06. Extract Emails.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\06. Extract Emails\bin\Debug\netcoreapp2.2\06. Extract Emails.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\06. Extract Emails\obj\Debug\netcoreapp2.2\06. Extract Emails.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\06. Extract Emails\obj\Debug\netcoreapp2.2\06. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\06. Extract Emails\obj\Debug\netcoreapp2.2\06. Extract Emails.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\06. Extract Emails\obj\Debug\netcoreapp2.2\06. Extract Emails.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\06. Extract Emails\obj\Debug\netcoreapp2.2\06. Extract Emails.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\20. Regular Expressions\Regular Expressions - Exercises\06. Extract Emails\obj\Debug\netcoreapp2.2\06. Extract Emails.pdb

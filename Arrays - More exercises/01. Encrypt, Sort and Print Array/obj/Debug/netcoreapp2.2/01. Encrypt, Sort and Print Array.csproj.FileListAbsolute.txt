@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\01. Encrypt, Sort and Print Array\bin\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\07. Arrays\Arrays - More exercises\01. Encrypt, Sort and Print Array\obj\Debug\netcoreapp2.2\01. Encrypt, Sort and Print Array.pdb

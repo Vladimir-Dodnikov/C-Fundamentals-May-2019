@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\02. Character Multiplier\bin\Debug\netcoreapp2.2\02. Character Multiplier.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\02. Character Multiplier\bin\Debug\netcoreapp2.2\02. Character Multiplier.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\02. Character Multiplier\bin\Debug\netcoreapp2.2\02. Character Multiplier.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\02. Character Multiplier\bin\Debug\netcoreapp2.2\02. Character Multiplier.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\02. Character Multiplier\bin\Debug\netcoreapp2.2\02. Character Multiplier.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\02. Character Multiplier\obj\Debug\netcoreapp2.2\02. Character Multiplier.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\02. Character Multiplier\obj\Debug\netcoreapp2.2\02. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\02. Character Multiplier\obj\Debug\netcoreapp2.2\02. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\02. Character Multiplier\obj\Debug\netcoreapp2.2\02. Character Multiplier.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\02. Character Multiplier\obj\Debug\netcoreapp2.2\02. Character Multiplier.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\18. Text Processing\Text Processing - Exercises\02. Character Multiplier\obj\Debug\netcoreapp2.2\02. Character Multiplier.pdb

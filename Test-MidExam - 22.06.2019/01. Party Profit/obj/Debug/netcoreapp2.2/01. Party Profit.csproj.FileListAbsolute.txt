@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\01. Party Profit\bin\Debug\netcoreapp2.2\01. Party Profit.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\01. Party Profit\bin\Debug\netcoreapp2.2\01. Party Profit.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\01. Party Profit\bin\Debug\netcoreapp2.2\01. Party Profit.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\01. Party Profit\bin\Debug\netcoreapp2.2\01. Party Profit.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\01. Party Profit\bin\Debug\netcoreapp2.2\01. Party Profit.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\Test - MidExam - 22.06.2019\Test-MidExam\01. Party Profit\obj\Debug\netcoreapp2.2\01. Party Profit.pdb

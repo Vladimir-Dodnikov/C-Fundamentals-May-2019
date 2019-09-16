@@ -1,0 +1,11 @@
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\12. RefactorSpecialNum\bin\Debug\netcoreapp2.2\12. RefactorSpecialNum.deps.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\12. RefactorSpecialNum\bin\Debug\netcoreapp2.2\12. RefactorSpecialNum.runtimeconfig.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\12. RefactorSpecialNum\bin\Debug\netcoreapp2.2\12. RefactorSpecialNum.runtimeconfig.dev.json
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\12. RefactorSpecialNum\bin\Debug\netcoreapp2.2\12. RefactorSpecialNum.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\12. RefactorSpecialNum\bin\Debug\netcoreapp2.2\12. RefactorSpecialNum.pdb
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\12. RefactorSpecialNum\obj\Debug\netcoreapp2.2\12. RefactorSpecialNum.csprojAssemblyReference.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\12. RefactorSpecialNum\obj\Debug\netcoreapp2.2\12. RefactorSpecialNum.csproj.CoreCompileInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\12. RefactorSpecialNum\obj\Debug\netcoreapp2.2\12. RefactorSpecialNum.AssemblyInfoInputs.cache
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\12. RefactorSpecialNum\obj\Debug\netcoreapp2.2\12. RefactorSpecialNum.AssemblyInfo.cs
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\12. RefactorSpecialNum\obj\Debug\netcoreapp2.2\12. RefactorSpecialNum.dll
+C:\Users\Temenuzhka\Desktop\C# Fundamentals\05. Fundamentals-Data-Types-and-Variables\DataTypesNVariables-Lab\12. RefactorSpecialNum\obj\Debug\netcoreapp2.2\12. RefactorSpecialNum.pdb
